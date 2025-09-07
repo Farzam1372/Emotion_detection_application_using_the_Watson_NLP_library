@@ -1,1 +1,1 @@
-# Repository for final project
+# Emotion_detection_application_using_the_Watson_NLP_library
