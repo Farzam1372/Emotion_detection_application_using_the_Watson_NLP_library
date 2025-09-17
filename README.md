@@ -1,1 +1,2 @@
-# Emotion_detection_application_using_the_Watson_NLP_library
+# Emotion detection application using the Watson NLP library
+-----
